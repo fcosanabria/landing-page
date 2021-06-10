@@ -3,14 +3,14 @@
   position: fixed; }
 
 .main-header {
-  line-height: 30px;
+  /* line-height: 30px; */
   position: relative;
   font-size: x-large;
   padding: 30px; }
 
 .logo-header span:hover {
   transition: .15s linear color;
-  color: #be00af; }
+  color: #ff00bf; }
 
 .sidenav {
   position: fixed;
